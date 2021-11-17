@@ -1,0 +1,8 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "complexity": ["warn", { "max": 12 }],
+    "quotes": ["warn", "double"],
+    "indent": ["error", 2]
+  }
+}
